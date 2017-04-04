@@ -1,0 +1,29 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "\"RestFul Api todoList\"",
+  "main": "index.js",
+  "start": "nodemon server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcepti0n/todoListApi.git"
+  },
+  "keywords": [
+    "\"RestFul\"",
+    "\"API\""
+  ],
+  "author": "\"Vaibhav Bhatia\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcepti0n/todoListApi/issues"
+  },
+  "homepage": "https://github.com/xcepti0n/todoListApi#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.3"
+  }
+}
